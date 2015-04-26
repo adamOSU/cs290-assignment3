@@ -1,0 +1,23 @@
+Start: Tues, 14 Apr 2015 15:37:00 -0800
+End: Tues, 14 Apr 2015 16:32:00 -0800
+Tasks: During this period I read through all of the requirements, posted a question about the assignment on Piazza, and wrote the first function in function.js
+
+Start: Tues, 15 Apr 2015 13:51:00 -0800
+End: Tues, 15 Apr 2015 15:00:00 -0800
+Tasks: Wrote the second function is function.js and began work on the third requirement.
+
+Start: Mon, 20 Apr 2015 10:30:00 -0800
+End: Mon, 20 Apr 2015 11:39:00 -0800
+Tasks: Completed the entire variables.js portion.  Debugged functions.js.
+
+Start: Mon, 20 Apr 2015 13:30:00 -0800
+End: Mon, 20 Apr 2015 15:26:00 -0800
+Tasks: Worked on objects.js.  Finished the MessageLog and the final requirement.
+
+Start: Mon, 20 Apr 2015 16:00:00 -0800
+End: Mon, 20 Apr 2015 16:21:00 -0800
+Tasks: Wrote lastReceivedMessage prototype and troubleshooted several bugs from objects.js
+
+Start: Tues, 21 Apr 2015 13:30:00 -0800
+End: Tues, 21 Apr 2015 14:45:00 -0800
+Tasks: Wrote, tested, and debugged parseGit function.  function.js, objects.js and variables.js all now complete and all tests pass.
